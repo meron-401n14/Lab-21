@@ -8,7 +8,7 @@ Browse to pages and Card Draw
 ### Author: Meron
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/meron-401n14/Lab-21/pull/1)
 * [travis](http://xyz.com)
 * [Heroku](https://lab-13app.herokuapp.com/)
 
