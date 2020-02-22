@@ -26,7 +26,7 @@ Browse to pages and Card Draw
 * Main
 
 #### UML
-* ![UML](UML.jpg)
+* ![UML](UML1.jpg)
 
 
 
